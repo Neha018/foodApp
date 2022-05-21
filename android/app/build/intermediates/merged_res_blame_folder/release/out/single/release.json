@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_cuisine_beverages.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cuisine_beverages.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_cuisine_american.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cuisine_american.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_module_cafe.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_module_cafe.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-xxxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_cuisine_desserts.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cuisine_desserts.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_restaurant_5.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_restaurant_5.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_bg_wallet.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_bg_wallet.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_restaurant_3.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_restaurant_3.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_restaurant_1.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_restaurant_1.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-xxhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_cuisine_chinese.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cuisine_chinese.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_vendor_pizzahut.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vendor_pizzahut.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_cuisine_egyptian.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cuisine_egyptian.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_vendor_elevationburger.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vendor_elevationburger.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_restaurant_6.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_restaurant_6.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-hdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_cuisine_arabic.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cuisine_arabic.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-xhdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_vendor_naif.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vendor_naif.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable_rn_edit_text_material.xml.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/src/main/res/drawable/rn_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_cuisine_breakfast.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cuisine_breakfast.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_module_restaurant.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_module_restaurant.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_restaurant_2.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_restaurant_2.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_vendor_jollibee.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vendor_jollibee.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_module_orderbyzone.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_module_orderbyzone.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_restaurant_4.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_restaurant_4.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_cuisine_grills.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cuisine_grills.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backicon.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_node_modules_reactnavigation_elements_src_assets_backiconmask.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_vendor_kfc.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vendor_kfc.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_cuisine_indian.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cuisine_indian.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_vendor_dominos.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_vendor_dominos.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/intermediates/merged_res/release/drawable-mdpi_assets_images_cuisine_healthy.png.flat",
+        "source": "/Users/nehasharma/Desktop/projects/foodApp/android/app/build/generated/res/react/release/drawable-mdpi/assets_images_cuisine_healthy.png"
+    }
+]
